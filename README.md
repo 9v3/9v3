@@ -148,37 +148,62 @@
 
 </div>
 
-<!-- CONTACT NEXUS -->
-## <span style="color:#ffff00">🌐 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐍𝐄𝐗𝐔𝐒</span>
+<!-- CONTACT NEXUS - ENHANCED VERSION -->
+## <span style="color:#ffff00">🌌 𝐂𝐎𝐒𝐌𝐈𝐂 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐍𝐄𝐗𝐔𝐒</span>
 
 <div align="center">
 
-<!-- CONTACT GRID -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
+<!-- ENHANCED CONTACT GRID -->
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 25px; margin: 40px 0;">
 
-<!-- Website -->
-<div style="background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 20px; border-radius: 15px; border: 2px solid #00ff00; text-align: center;">
-<h3 style="color: #00ff00; margin-bottom: 10px;">🌐 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</h3>
-<a href="https://saif.gt.tc" style="color: #ffffff; text-decoration: none; font-size: 1.1em; font-weight: bold;">saif.gt.tc</a>
+<!-- Website Card -->
+<div style="background: linear-gradient(135deg, #0f0f23, #00ff00); padding: 25px; border-radius: 20px; border: 3px solid #00ff00; box-shadow: 0 0 35px rgba(0,255,0,0.6); text-align: center; transition: all 0.3s ease;">
+<div style="font-size: 3em; margin-bottom: 15px;">🌐</div>
+<h3 style="color: #00ff00; margin-bottom: 15px; font-size: 1.3em;">𝐖𝐄𝐁𝐒𝐈𝐓𝐄</h3>
+<a href="https://saif.gt.tc" style="color: #ffffff; text-decoration: none; font-size: 1.2em; font-weight: bold; background: rgba(0,255,0,0.2); padding: 10px 20px; border-radius: 10px; border: 2px solid #00ff00; display: inline-block;">
+saif.gt.tc
+</a>
+<p style="color: #cccccc; margin-top: 15px; font-size: 0.9em;">My Personal Cosmic Hub</p>
 </div>
 
-<!-- Telegram -->
-<div style="background: linear-gradient(135deg, #2e1a4b, #4b2e6b); padding: 20px; border-radius: 15px; border: 2px solid #ff00ff; text-align: center;">
-<h3 style="color: #ff00ff; margin-bottom: 10px;">📱 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌</h3>
-<a href="https://t.me/rssns" style="color: #ffffff; text-decoration: none; font-size: 1.1em; font-weight: bold;">@rssns</a>
+<!-- Telegram Card -->
+<div style="background: linear-gradient(135deg, #0f0f23, #ff00ff); padding: 25px; border-radius: 20px; border: 3px solid #ff00ff; box-shadow: 0 0 35px rgba(255,0,255,0.6); text-align: center; transition: all 0.3s ease;">
+<div style="font-size: 3em; margin-bottom: 15px;">📱</div>
+<h3 style="color: #ff00ff; margin-bottom: 15px; font-size: 1.3em;">𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌</h3>
+<a href="https://t.me/rssns" style="color: #ffffff; text-decoration: none; font-size: 1.2em; font-weight: bold; background: rgba(255,0,255,0.2); padding: 10px 20px; border-radius: 10px; border: 2px solid #ff00ff; display: inline-block;">
+@rssns
+</a>
+<p style="color: #cccccc; margin-top: 15px; font-size: 0.9em;">Direct Cosmic Connection</p>
 </div>
 
-<!-- Email -->
-<div style="background: linear-gradient(135deg, #1a2e2e, #2e4b4b); padding: 20px; border-radius: 15px; border: 2px solid #00ffff; text-align: center;">
-<h3 style="color: #00ffff; margin-bottom: 10px;">📧 𝐄𝐌𝐀𝐈𝐋</h3>
-<a href="mailto:s_if@usa.com" style="color: #ffffff; text-decoration: none; font-size: 1.1em; font-weight: bold;">s_if@usa.com</a>
+<!-- Email Card -->
+<div style="background: linear-gradient(135deg, #0f0f23, #00ffff); padding: 25px; border-radius: 20px; border: 3px solid #00ffff; box-shadow: 0 0 35px rgba(0,255,255,0.6); text-align: center; transition: all 0.3s ease;">
+<div style="font-size: 3em; margin-bottom: 15px;">📧</div>
+<h3 style="color: #00ffff; margin-bottom: 15px; font-size: 1.3em;">𝐄𝐌𝐀𝐈𝐋</h3>
+<a href="mailto:s_if@usa.com" style="color: #ffffff; text-decoration: none; font-size: 1.2em; font-weight: bold; background: rgba(0,255,255,0.2); padding: 10px 20px; border-radius: 10px; border: 2px solid #00ffff; display: inline-block;">
+s_if@usa.com
+</a>
+<p style="color: #cccccc; margin-top: 15px; font-size: 0.9em;">Interstellar Messages</p>
 </div>
 
-<!-- Instagram -->
-<div style="background: linear-gradient(135deg, #4b2e1a, #6b4b2e); padding: 20px; border-radius: 15px; border: 2px solid #ffff00; text-align: center;">
-<h3 style="color: #ffff00; margin-bottom: 10px;">📸 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌</h3>
-<a href="https://instagram.com/w_.dg" style="color: #ffffff; text-decoration: none; font-size: 1.1em; font-weight: bold;">@w_.dg</a>
+<!-- Instagram Card -->
+<div style="background: linear-gradient(135deg, #0f0f23, #ffff00); padding: 25px; border-radius: 20px; border: 3px solid #ffff00; box-shadow: 0 0 35px rgba(255,255,0,0.6); text-align: center; transition: all 0.3s ease;">
+<div style="font-size: 3em; margin-bottom: 15px;">📸</div>
+<h3 style="color: #ffff00; margin-bottom: 15px; font-size: 1.3em;">𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌</h3>
+<a href="https://instagram.com/w_.dg" style="color: #ffffff; text-decoration: none; font-size: 1.2em; font-weight: bold; background: rgba(255,255,0,0.2); padding: 10px 20px; border-radius: 10px; border: 2px solid #ffff00; display: inline-block;">
+@w_.dg
+</a>
+<p style="color: #cccccc; margin-top: 15px; font-size: 0.9em;">Visual Cosmic Journey</p>
 </div>
+
+</div>
+
+<!-- QUICK ACTION BUTTONS -->
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
+
+[![🌠 Quick Connect](https://img.shields.io/badge/🌠_QUICK_CONNECT-Click_Here-00ff00?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rssns)
+[![🚀 Instant Message](https://img.shields.io/badge/🚀_INSTANT_MESSAGE-Contact_Me-ff00ff?style=for-the-badge&logo=whatsapp&logoColor=white)](mailto:s_if@usa.com)
+[![📧 Priority Mail](https://img.shields.io/badge/📧_PRIORITY_MAIL-Get_In_Touch-00ffff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s_if@usa.com)
 
 </div>
 
@@ -215,9 +240,15 @@
     100% { background-position: 0% 50%; }
 }
 
-/* Hover effects for project cards */
+/* Hover effects for all cards */
 div[style*="background: linear-gradient"]:hover {
-    transform: translateY(-5px) scale(1.02);
+    transform: translateY(-10px) scale(1.05);
+    box-shadow: 0 0 50px currentColor;
+}
+
+/* Contact cards specific hover */
+div[style*="background: linear-gradient(135deg, #0f0f23"]:hover {
+    transform: translateY(-8px) scale(1.03);
 }
 
 /* Custom scrollbar */
@@ -232,5 +263,10 @@ div[style*="background: linear-gradient"]:hover {
 ::-webkit-scrollbar-thumb {
     background: linear-gradient(45deg, #00ff00, #ff00ff, #00ffff);
     border-radius: 6px;
+}
+
+/* Glowing text effect */
+.glow-text {
+    text-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;
 }
 </style>
