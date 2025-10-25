@@ -1,123 +1,197 @@
 <div align="center">
 
-# <span style="color:#00ff00">S</span><span style="color:#ff00ff">A</span><span style="color:#00ffff">I</span><span style="color:#ffff00">F</span>
+<!-- 🌟 ANIMATED COSMIC HEADER 🌟 -->
+<img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="150">
 
-### <span style="color:#00ff00">P</span><span style="color:#ff00ff">y</span><span style="color:#00ffff">t</span><span style="color:#ffff00">h</span><span style="color:#ff00ff">o</span><span style="color:#00ff00">n</span> <span style="color:#00ffff">D</span><span style="color:#ffff00">e</span><span style="color:#ff00ff">v</span><span style="color:#00ff00">e</span><span style="color:#00ffff">l</span><span style="color:#ffff00">o</span><span style="color:#ff00ff">p</span><span style="color:#00ff00">e</span><span style="color:#00ffff">r</span> | <span style="color:#ff00ff">T</span><span style="color:#00ff00">e</span><span style="color:#00ffff">l</span><span style="color:#ffff00">e</span><span style="color:#ff00ff">g</span><span style="color:#00ff00">r</span><span style="color:#00ffff">a</span><span style="color:#ffff00">m</span> <span style="color:#ff00ff">B</span><span style="color:#00ff00">o</span><span style="color:#00ffff">t</span> <span style="color:#ffff00">E</span><span style="color:#ff00ff">x</span><span style="color:#00ff00">p</span><span style="color:#00ffff">e</span><span style="color:#ffff00">r</span><span style="color:#ff00ff">t</span>
+<!-- 🚀 MAIN TITLE WITH GRADIENT EFFECT 🚀 -->
+<h1 style="font-size: 3.5em; background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96CEB4, #FFEAA7); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px rgba(255,107,107,0.5);">
+    🌌 𝐒𝐀𝐈𝐅 🌌
+</h1>
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200">
+<!-- ✨ ANIMATED SUBTITLE ✨ -->
+<p style="font-size: 1.3em; color: #FFD700; text-shadow: 0 0 10px #FF6B6B;">
+    💫 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 & 𝐀𝐈 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 💫
+</p>
 
-</div>
+<!-- 🎇 FLOATING BADGES 🎇 -->
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin: 20px 0;">
 
-<div align="center">
-<span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span>
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)
-
-</div>
-
-<div align="center">
-<span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span>
-</div>
-
-<div align="center">
-
-## <span style="color:#00ff00">📊</span> <span style="color:#ff00ff">G</span><span style="color:#00ffff">I</span><span style="color:#ffff00">T</span><span style="color:#ff00ff">H</span><span style="color:#00ff00">U</span><span style="color:#00ffff">B</span> <span style="color:#ffff00">S</span><span style="color:#ff00ff">T</span><span style="color:#00ff00">A</span><span style="color:#00ffff">T</span><span style="color:#ffff00">S</span>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=9v3&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=ff00ff&border_color=00ffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9v3&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff00&text_color=ffffff&border_color=00ffff)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117)
+![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)
 
 </div>
 
-<div align="center">
-<span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span>
+<!-- 🌠 ANIMATED DIVIDER 🌠 -->
+<img src="https://media.giphy.com/media/l4Ep6lJ1gww3OQvXW/giphy.gif" width="100%">
+
 </div>
+
+<!-- 🏆 REAL-TIME STATISTICS SECTION 🏆 -->
+## <span style="color: #4ECDC4">📊 𝐑𝐄𝐀𝐋-𝐓𝐈𝐌𝐄 𝐒𝐓𝐀𝐓𝐒</span>
 
 <div align="center">
 
-## <span style="color:#ff00ff">🌐</span> <span style="color:#00ffff">C</span><span style="color:#ffff00">O</span><span style="color:#ff00ff">N</span><span style="color:#00ff00">T</span><span style="color:#00ffff">A</span><span style="color:#ffff00">C</span><span style="color:#ff00ff">T</span> <span style="color:#00ff00">M</span><span style="color:#00ffff">E</span>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
 
-<table>
-<tr>
-<td align="center">
+<!-- GitHub Stats -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=9v3&show_icons=true&theme=radical&bg_color=0d1117&title_color=4ECDC4&text_color=ffffff&icon_color=FF6B6B&border_color=45B7D1&include_all_commits=true" alt="GitHub Stats" height="180">
+</div>
 
-[![Website](https://img.shields.io/badge/🌐_WEBSITE-saif.gt.tc-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://saif.gt.tc)
+<!-- Streak Stats -->
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9v3&theme=radical&background=0d1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=45B7D1" alt="GitHub Streak" height="180">
+</div>
 
-</td>
-<td align="center">
-
-[![Telegram](https://img.shields.io/badge/📱_TELEGRAM-@rssns-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rssns)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-[![Email](https://img.shields.io/badge/📧_EMAIL-s_if@usa.com-ff00ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s_if@usa.com)
-
-</td>
-<td align="center">
-
-[![Instagram](https://img.shields.io/badge/📸_INSTAGRAM-@w_.dg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/w_.dg)
-
-</td>
-</tr>
-</table>
+<!-- Top Languages -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9v3&layout=compact&theme=radical&bg_color=0d1117&title_color=96CEB4&text_color=ffffff&border_color=FFEAA7&langs_count=8" alt="Top Languages" height="180">
+</div>
 
 </div>
 
-<div align="center">
-<span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span>
 </div>
+
+<!-- 🎨 TECH STACK GALAXY 🎨 -->
+## <span style="color: #FF6B6B">🛠 𝐓𝐄𝐂𝐇 𝐆𝐀𝐋𝐀𝐗𝐘</span>
 
 <div align="center">
 
-## <span style="color:#00ffff">🚀</span> <span style="color:#ffff00">P</span><span style="color:#ff00ff">R</span><span style="color:#00ff00">O</span><span style="color:#00ffff">J</span><span style="color:#ffff00">E</span><span style="color:#ff00ff">C</span><span style="color:#00ff00">T</span><span style="color:#00ffff">S</span>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 25px; margin: 30px 0;">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin: 20px 0;">
-
-<div style="background: linear-gradient(135deg, #000000, #00ff00); padding: 25px; border-radius: 15px; border: 2px solid #00ff00; box-shadow: 0 0 20px #00ff00;">
-<h3 style="color: #00ff00">🤖 Python AI Bot</h3>
-<p style="color: white">Advanced Telegram bot with AI features</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #000000, #ff00ff); padding: 25px; border-radius: 15px; border: 2px solid #ff00ff; box-shadow: 0 0 20px #ff00ff;">
-<h3 style="color: #ff00ff">🌐 PHP Web App</h3>
-<p style="color: white">Dynamic web applications</p>
-</div>
-
-<div style="background: linear-gradient(135deg, #000000, #00ffff); padding: 25px; border-radius: 15px; border: 2px solid #00ffff; box-shadow: 0 0 20px #00ffff;">
-<h3 style="color: #00ffff">💻 HTML Projects</h3>
-<p style="color: white">Creative web designs</p>
-</div>
-
-</div>
-
-</div>
-
-<div align="center">
-<span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span>
-</div>
-
-<div align="center" style="background: linear-gradient(135deg, #000000, #1a1a2e); padding: 30px; border-radius: 20px; border: 2px solid #ffff00; box-shadow: 0 0 30px #ffff00;">
-
-### <span style="color:#00ff00">"</span><span style="color:#ff00ff">C</span><span style="color:#00ffff">o</span><span style="color:#ffff00">d</span><span style="color:#ff00ff">e</span> <span style="color:#00ff00">i</span><span style="color:#00ffff">s</span> <span style="color:#ffff00">m</span><span style="color:#ff00ff">y</span> <span style="color:#00ff00">a</span><span style="color:#00ffff">r</span><span style="color:#ffff00">t</span><span style="color:#ff00ff">,</span> <span style="color:#00ff00">t</span><span style="color:#00ffff">h</span><span style="color:#ffff00">e</span> <span style="color:#ff00ff">k</span><span style="color:#00ff00">e</span><span style="color:#00ffff">y</span><span style="color:#ffff00">b</span><span style="color:#ff00ff">o</span><span style="color:#00ff00">a</span><span style="color:#00ffff">r</span><span style="color:#ffff00">d</span> <span style="color:#ff00ff">m</span><span style="color:#00ff00">y</span> <span style="color:#00ffff">b</span><span style="color:#ffff00">r</span><span style="color:#ff00ff">u</span><span style="color:#00ff00">s</span><span style="color:#00ffff">h</span><span style="color:#ffff00">"</span> 🎨
-
-</div>
-
-<div align="center">
-<span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span><span style="color:#00ff00">_</span><span style="color:#ff00ff">_</span><span style="color:#00ffff">_</span><span style="color:#ffff00">_</span>
-</div>
-
+<!-- Backend Card -->
+<div style="background: linear-gradient(135deg, #0d1117, #1a1a2e); padding: 25px; border-radius: 20px; border: 2px solid #FF6B6B; box-shadow: 0 0 25px rgba(255,107,107,0.4);">
+<h3 align="center" style="color: #FF6B6B; margin-bottom: 15px;">⚡ 𝐁𝐀𝐂𝐊𝐄𝐍𝐃</h3>
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150">
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-### <span style="color:#00ff00">✨</span> <span style="color:#ff00ff">T</span><span style="color:#00ffff">H</span><span style="color:#ffff00">A</span><span style="color:#ff00ff">N</span><span style="color:#00ff00">K</span><span style="color:#00ffff">S</span> <span style="color:#ffff00">F</span><span style="color:#ff00ff">O</span><span style="color:#00ff00">R</span> <span style="color:#00ffff">V</span><span style="color:#ffff00">I</span><span style="color:#ff00ff">S</span><span style="color:#00ff00">I</span><span style="color:#00ffff">T</span><span style="color:#ffff00">I</span><span style="color:#ff00ff">N</span><span style="color:#00ff00">G</span> <span style="color:#00ffff">✨</span>
+</div>
+</div>
+
+<!-- Frontend Card -->
+<div style="background: linear-gradient(135deg, #0d1117, #2e1a4b); padding: 25px; border-radius: 20px; border: 2px solid #4ECDC4; box-shadow: 0 0 25px rgba(78,205,196,0.4);">
+<h3 align="center" style="color: #4ECDC4; margin-bottom: 15px;">🎨 𝐅𝐑𝐎𝐍𝐓𝐄𝐍𝐃</h3>
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
+</div>
+
+<!-- Bots & AI Card -->
+<div style="background: linear-gradient(135deg, #0d1117, #1a2e2e); padding: 25px; border-radius: 20px; border: 2px solid #45B7D1; box-shadow: 0 0 25px rgba(69,183,209,0.4);">
+<h3 align="center" style="color: #45B7D1; margin-bottom: 15px;">🤖 𝐁𝐎𝐓𝐒 & 𝐀𝐈</h3>
+<div align="center">
+
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=ai&logoColor=white)
+
+</div>
+</div>
+
+</div>
+
+</div>
+
+<!-- 🚀 FEATURED PROJECTS UNIVERSE 🚀 -->
+## <span style="color: #96CEB4">🌟 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒</span>
+
+<div align="center">
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; margin: 30px 0;">
+
+<!-- Project 1 -->
+<div style="background: linear-gradient(135deg, #0f0f23, #1a1a2e); padding: 30px; border-radius: 25px; border: 2px solid #FF6B6B; box-shadow: 0 0 30px rgba(255,107,107,0.5); transition: transform 0.3s ease;">
+<h3 align="center" style="color: #FF6B6B; margin-bottom: 15px; font-size: 1.3em;">🤖 𝐂𝐎𝐒𝐌𝐈𝐂 𝐀𝐈 𝐁𝐎𝐓</h3>
+<p align="center" style="color: #ffffff; margin-bottom: 20px; line-height: 1.6;">
+بوت تليجرام ذكي بميزات الذكاء الاصطناعي المتقدمة والأدوات التفاعلية
+</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat-square&logo=ai&logoColor=white)
+
+</div>
+</div>
+
+<!-- Project 2 -->
+<div style="background: linear-gradient(135deg, #0f0f23, #2e1a4b); padding: 30px; border-radius: 25px; border: 2px solid #4ECDC4; box-shadow: 0 0 30px rgba(78,205,196,0.5); transition: transform 0.3s ease;">
+<h3 align="center" style="color: #4ECDC4; margin-bottom: 15px; font-size: 1.3em;">🌐 𝐍𝐄𝐗𝐔𝐒 𝐖𝐄𝐁 𝐀𝐏𝐏𝐒</h3>
+<p align="center" style="color: #ffffff; margin-bottom: 20px; line-height: 1.6;">
+تطبيقات ويب ديناميكية باستخدام PHP وHTML مع واجهات مستخدم تفاعلية
+</p>
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
+</div>
+
+</div>
+
+</div>
+
+<!-- 🌟 CONTACT NEXUS 🌟 -->
+## <span style="color: #FFEAA7">📞 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐍𝐄𝐗𝐔𝐒</span>
+
+<div align="center">
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 25px; margin: 30px 0;">
+
+<!-- Website -->
+<div style="background: linear-gradient(135deg, #1a1a2e, #16213e); padding: 25px; border-radius: 20px; border: 2px solid #FF6B6B; text-align: center;">
+<h3 style="color: #FF6B6B; margin-bottom: 15px; font-size: 1.2em;">🌐 𝐖𝐄𝐁𝐒𝐈𝐓𝐄</h3>
+<a href="https://saif.gt.tc" style="color: #ffffff; text-decoration: none; font-size: 1.1em; font-weight: bold;">saif.gt.tc</a>
+</div>
+
+<!-- Telegram -->
+<div style="background: linear-gradient(135deg, #2e1a4b, #4b2e6b); padding: 25px; border-radius: 20px; border: 2px solid #4ECDC4; text-align: center;">
+<h3 style="color: #4ECDC4; margin-bottom: 15px; font-size: 1.2em;">📱 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌</h3>
+<a href="https://t.me/rssns" style="color: #ffffff; text-decoration: none; font-size: 1.1em; font-weight: bold;">@rssns</a>
+</div>
+
+<!-- Email -->
+<div style="background: linear-gradient(135deg, #1a2e2e, #2e4b4b); padding: 25px; border-radius: 20px; border: 2px solid #45B7D1; text-align: center;">
+<h3 style="color: #45B7D1; margin-bottom: 15px; font-size: 1.2em;">📧 𝐄𝐌𝐀𝐈𝐋</h3>
+<a href="mailto:s_if@usa.com" style="color: #ffffff; text-decoration: none; font-size: 1.1em; font-weight: bold;">s_if@usa.com</a>
+</div>
+
+<!-- Instagram -->
+<div style="background: linear-gradient(135deg, #4b2e1a, #6b4b2e); padding: 25px; border-radius: 20px; border: 2px solid #96CEB4; text-align: center;">
+<h3 style="color: #96CEB4; margin-bottom: 15px; font-size: 1.2em;">📸 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌</h3>
+<a href="https://instagram.com/w_.dg" style="color: #ffffff; text-decoration: none; font-size: 1.1em; font-weight: bold;">@w_.dg</a>
+</div>
+
+</div>
+
+</div>
+
+<!-- 🎇 FOOTER WITH ANIMATED QUOTE 🎇 -->
+<div align="center" style="margin-top: 50px;">
+
+<div style="background: linear-gradient(135deg, #0d1117, #1a1a2e); padding: 40px; border-radius: 25px; border: 2px solid #FFEAA7; box-shadow: 0 0 40px rgba(255,234,167,0.3);">
+<h2 style="color: #FFEAA7; margin-bottom: 20px; font-size: 1.5em;">⚡ 𝐐𝐔𝐎𝐓𝐄 𝐎𝐅 𝐓𝐇𝐄 𝐆𝐀𝐋𝐀𝐗𝐘</h2>
+<p style="color: #ffffff; font-size: 1.3em; font-style: italic; line-height: 1.6;">
+"الكود الذي أكتبه اليوم هو البوابة إلى عالم الغد، كل سطر برمجة هو خطوة نحو المستقبل" 🚀
+</p>
+</div>
+
+<!-- FINAL ANIMATION -->
+<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100%" style="margin: 40px 0;">
+
+<h3 style="color: #FF6B6B; font-size: 1.8em; text-shadow: 0 0 20px #FF6B6B; margin-bottom: 20px;">
+✨ 𝐓𝐇𝐀𝐍𝐊 𝐘𝐎𝐔 𝐅𝐎𝐑 𝐄𝐗𝐏𝐋𝐎𝐑𝐈𝐍𝐆 𝐌𝐘 𝐂𝐎𝐒𝐌𝐈𝐂 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 ✨
+</h3>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=9v3&theme=react-dark&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true" width="100%">
 
 </div>
